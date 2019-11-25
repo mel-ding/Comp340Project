@@ -1,19 +1,19 @@
 ﻿category,webcolor
-pink ,pink 
+pink ,pink
 pink ,lightpink
-pink ,hotpink 
+pink ,hotpink
 pink ,deeppink
 pink ,palevioletred
 pink ,mediumvioletred
-purple ,lavendar 
-purple ,thistle 
+purple ,lavendar
+purple ,thistle
 purple ,plum
-purple ,orchid 
-purple ,violet 
-purple ,fuchsia 
+purple ,orchid
+purple ,violet
+purple ,fuchsia
 purple ,magenta
-purple ,mediumorchid 
-purple ,darkorchid 
+purple ,mediumorchid
+purple ,darkorchid
 purple ,darkviolet 
 purple ,blueviolet 
 purple ,darkmagenta 
@@ -80,14 +80,14 @@ cyan ,turquoise
 cyan,mediumturquoise 
 cyan ,darkturquoise 
 grey,gainsboro
-grey,lightgray
+grey,lightgrey
 grey,silver
-grey,darkgray
-grey,dimgray
-grey,gray
-grey,lightslategray
-grey,slategray
-grey,darkslategray
+grey,darkgrey
+grey,dimgrey
+grey,grey
+grey,lightslategrey
+grey,slategrey
+grey,darkslategrey
 grey,black
 white,white
 white,snow
